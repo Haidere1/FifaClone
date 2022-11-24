@@ -1,0 +1,40 @@
+.top
+{
+    margin-top: 40px;
+text-align: center;
+width: 100%;
+height: 20vh;
+border-bottom: 1px solid lightgray;
+border-top: 1px solid lightgray;
+
+
+}
+.images img
+{
+    padding-left: 50px;
+    width: 13vw;
+}
+.row ul{
+    list-style: none;
+    
+}
+.row li
+{
+    color: gray;
+    font-size: large;
+}
+.icons ul
+{
+    list-style: none;
+}
+.icons li
+
+{
+    padding-left: 10px;
+    display: inline;
+}
+.icons img
+{
+    width: 2vw;
+    height: 4vh;
+}

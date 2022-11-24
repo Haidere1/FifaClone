@@ -1,0 +1,10 @@
+.mt{
+    border-bottom: 1px solid lightgray;
+    height: 10vh;
+    
+}
+.mt td
+{
+    padding-top: 9px;
+    text-align: left;
+}
